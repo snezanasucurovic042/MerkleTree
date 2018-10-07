@@ -1,0 +1,4 @@
+Until now i realised 2 files:
+1. HTMLTree5.html. This file contains code for Tree diagram  presentation. I think that for its distribution its licence should be checked.
+2. ScriptHASH.js. Contains code for SHA256 hash calculation. Needs Node.js package and code in Command Prompt '> node  ScriptHASH.js'. 
+i think that i can connect cryptohash and Merkle Tree diagram presentation until deadline. 
